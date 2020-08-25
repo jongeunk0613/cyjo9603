@@ -1,0 +1,2 @@
+[![Chanyeong's github stats](https://github-readme-stats.vercel.app/api?username=cyjo9603&count_private=true&show_icons=true&include_all_commits=true&hide=stars,issues&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+[![Chanyeong's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyjo9603&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
